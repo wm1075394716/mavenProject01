@@ -18,7 +18,7 @@ public class MainApplication {
         System.out.println("组件："+(wm1==wm));
         MyConfig bean = run.getBean(MyConfig.class);
         System.out.println(bean);
-        System.out.println(bean);
+        System.out.println("hot_fix");
 //        bean.setUser(new User(2,"xx",1));
 //        User xx=run.getBean("wm",User.class);
 //        System.out.println(xx);
