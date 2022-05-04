@@ -22,6 +22,7 @@ public class MainApplication {
         System.out.println("master test");
         System.out.println("hot_fix test");
         System.out.println("push test");
+        System.out.println("pull test");
 //        bean.setUser(new User(2, "xx",1));
 //        User xx=run.getBean("wm",User.class);
 //        System.out.println(xx);
