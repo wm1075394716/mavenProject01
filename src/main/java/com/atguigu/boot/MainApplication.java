@@ -19,7 +19,8 @@ public class MainApplication {
         MyConfig bean = run.getBean(MyConfig.class);
         System.out.println(bean);
         System.out.println("hot_fix");
-//        bean.setUser(new User(2,"xx",1));
+        System.out.println("hot_fix test");
+//        bean.setUser(new User(2, "xx",1));
 //        User xx=run.getBean("wm",User.class);
 //        System.out.println(xx);
     }
